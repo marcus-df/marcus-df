@@ -1,4 +1,13 @@
-### Hi there 👋
+<h2 align="center">marcus-df's GitHub profile</h2>
+
+ ### 🥁 In these old boxes you will find... ✨😲
+ - [X] dusty and buggy projects from before I started working web-dev. 🕸️🪲
+ - [X] empty skeleton projects that never actually became anything. 🦴
+ - [ ] interesting code that can be repurposed for something productive. 💩
+
+> [!NOTE]\
+> When I get some time and inspiration (really if), I'm planning on renovating this profile, add and develop some of my ideas for projects.
+
 
 <!--
 **marcus-df/marcus-df** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
